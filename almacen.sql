@@ -1,7 +1,3 @@
--- Base de datos: almacen
--- Proyecto: Buscar datos en tiempo real con PHP, MySQL y AJAX
--- Autor: Marco Robles
--- Team: Códigos de Programación
 
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
