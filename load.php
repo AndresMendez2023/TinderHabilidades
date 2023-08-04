@@ -1,9 +1,4 @@
 <?php
-/*
-* Script: Cargar datos de lado del servidor con PHP y MySQL
-* Autor: Marco Robles
-* Team: Códigos de Programación
-*/
 
 
 require 'config.php';
@@ -46,9 +41,7 @@ if (!$pagina) {
 
 $sLimit = "LIMIT $inicio , $limit";
 
-/**
- * Ordenamiento
- */
+
 
  $sOrder = "";
  if(isset($_POST['orderCol'])){
